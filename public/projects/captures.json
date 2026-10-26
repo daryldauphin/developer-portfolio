@@ -1,0 +1,30 @@
+{
+  "capturedAt": "2026-10-26T15:14:19.426Z",
+  "results": [
+    {
+      "slug": "boston-university",
+      "capture": false,
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.bu.edu/\nCall log:\n\u001b[2m  - navigating to \"https://www.bu.edu/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    },
+    {
+      "slug": "prime-action",
+      "capture": false,
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.primeactioninc.com/\nCall log:\n\u001b[2m  - navigating to \"https://www.primeactioninc.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    },
+    {
+      "slug": "prc-roofing",
+      "capture": false,
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://prcroofingpro.com/\nCall log:\n\u001b[2m  - navigating to \"https://prcroofingpro.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    },
+    {
+      "slug": "painters-etcetera",
+      "capture": false,
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://paintersetcetera.com/\nCall log:\n\u001b[2m  - navigating to \"https://paintersetcetera.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    },
+    {
+      "slug": "casual-cat",
+      "capture": false,
+      "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://casualcat.com/\nCall log:\n\u001b[2m  - navigating to \"https://casualcat.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    }
+  ]
+}
